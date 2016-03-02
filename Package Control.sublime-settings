@@ -1,0 +1,63 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"IMESupport"
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Can I Use",
+		"Codecs33",
+		"CodeFormatter",
+		"ColorPicker",
+		"Compass",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"CSScomb",
+		"Diffy",
+		"Emmet",
+		"Emmet Css Snippets",
+		"EncodingHelper",
+		"Flex",
+		"Goto-CSS-Declaration",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"IMESupport",
+		"jQuery Snippets pack",
+		"LiveStyle",
+		"Local History",
+		"Markdown Extended",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SCSS Snippets",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby",
+		"Sublimerge Pro",
+		"Syntax Highlighting for Sass",
+		"Tag",
+		"Theme - itg.flat",
+		"TrailingSpaces",
+		"View In Browser",
+		"YUI Compressor"
+	],
+	"repositories":
+	[
+		"https://github.com/kope88/InputSequence.git",
+		"https://github.com/kope88/InputSequence.git"
+	]
+}

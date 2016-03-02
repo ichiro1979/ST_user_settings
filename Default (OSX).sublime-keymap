@@ -1,0 +1,4 @@
+[
+	 { "keys": ["super+shift+c"], "command": "color_pick" },
+	 { "keys": ["ctrl+alt+c"], "command": "css_comb" }
+]

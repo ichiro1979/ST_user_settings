@@ -1,0 +1,8 @@
+[
+//書き方:{ "keys": [ショートカットキー], "command": "コマンド名" }
+	{"keys":["ctrl+shift+f"], "command": "view_in_browser",
+  "args": {"browser": "chrome"}},
+   { "keys": ["ctrl+shift+c"], "command": "color_pick" },
+   { "keys": ["ctrl+shift+1"], "command": "multi_number_input"},
+   { "keys": ["ctrl+alt+c"], "command": "css_comb" }
+]
